@@ -13,3 +13,11 @@
  *= require_tree .
  *= require_self
  */
+
+.app-container {
+  margin-top: 40px;
+  margin-right: auto;
+  margin-left: auto;
+
+  width: 600px;
+}
